@@ -1,29 +1,67 @@
-# Sales Dashboard using Power BI
+# 📊 Sales Dashboard using Power BI
 
-## Overview
-This project presents an interactive sales dashboard developed in Microsoft Power BI for analyzing sales performance.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-02569B?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-## Features
-- Sales Analysis
-- Customer Analysis
-- Product Performance
-- KPI Dashboard
-- Interactive Filters
-- Power Query Data Transformation
-- DAX Measures
+---
 
-## Tools
+## 📖 Overview
+
+Interactive Sales Dashboard developed using Microsoft Power BI.
+
+---
+
+## 🖼 Dashboard Preview
+
+### 🏠 Home
+
+![Home](Screenshots/Home.png)
+
+---
+
+### 📈 Overview
+
+![Overview](Screenshots/Overview.png)
+
+---
+
+### 📦 Products
+
+![Products](Screenshots/Products.png)
+
+---
+
+### 👥 Customers
+
+![Customers](Screenshots/Customers.png)
+
+---
+
+### 👨‍💼 Salespersons
+
+![Salespersons](Screenshots/Salespersons.png)
+
+---
+
+### 📋 Sales Details
+
+![Sales Details](Screenshots/SalesDetails.png)
+
+---
+
+## 🛠 Tools
+
 - Microsoft Power BI
 - Power Query
 - DAX
 - Microsoft Excel
 
-## Dashboard Preview
+---
 
-(Add dashboard screenshots here)
+## 👩‍💻 Author
 
-## File
-- SALE-Somayeh Forouzandeh.pbix
+**Somayeh Forouzandeh**
 
-## Author
-Somayeh Forouzandeh
+Industrial Engineer | Data Analyst | Business Intelligence Developer
